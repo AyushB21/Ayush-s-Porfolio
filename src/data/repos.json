@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ResQ-Disaster-Management-App",
+    "description": "The ResQ Disaster Management App is a project aimed at providing an intuitive interface for disaster response coordination. It focuses on reporting calamities, receiving alerts, managing resources, and enabling collaboration among response teams.",
+    "language": "JavaScript",
+    "stars": 7,
+    "url": "https://github.com/AyushB21/ResQ-Disaster-Management-App",
+    "homepage": null,
+    "updated": "2026-04-22T07:19:26Z"
+  },
+  {
+    "name": "AyushB21",
+    "description": "Config files",
+    "language": null,
+    "stars": 0,
+    "url": "https://github.com/AyushB21/AyushB21",
+    "homepage": "https://github.com/AyushB21/AyushB21",
+    "updated": "2025-03-20T15:48:07Z"
+  },
+  {
+    "name": "Salesforce-Virtual-Intenship",
+    "description": null,
+    "language": null,
+    "stars": 0,
+    "url": "https://github.com/AyushB21/Salesforce-Virtual-Intenship",
+    "homepage": null,
+    "updated": "2024-12-27T14:05:12Z"
+  },
+  {
+    "name": "AI-Text-Summarizer-Using-Postman-API",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 0,
+    "url": "https://github.com/AyushB21/AI-Text-Summarizer-Using-Postman-API",
+    "homepage": null,
+    "updated": "2024-12-26T06:11:33Z"
+  },
+  {
+    "name": "Flappy-Bird",
+    "description": "The repository contains the code for a Flappy Bird game. It includes the game logic, graphics, and user interaction. The game is implemented using Python and Pygame, and it provides a fun and interactive experience for players. The code is well-documented and easy to understand, making it a great resource for learning game development with Python.",
+    "language": "Python",
+    "stars": 0,
+    "url": "https://github.com/AyushB21/Flappy-Bird",
+    "homepage": null,
+    "updated": "2023-12-27T15:16:38Z"
+  },
+  {
+    "name": "ML-Mini-Projects",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "stars": 0,
+    "url": "https://github.com/AyushB21/ML-Mini-Projects",
+    "homepage": null,
+    "updated": "2023-12-25T16:49:21Z"
+  }
+]

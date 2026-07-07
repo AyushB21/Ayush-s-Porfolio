@@ -1,0 +1,22 @@
+{
+  "name": "ab-motorsport-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "F1-themed interactive portfolio for Ayush Bhatt (AB Motorsport)",
+  "scripts": {
+    "fetch:repos": "node scripts/fetch-repos.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/fetch-repos.mjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
